@@ -18,6 +18,10 @@ Installation
 	
 *To get all records in db*
 
+#### GET A SINGLE RECORD - localhost:4000/api/sample/id
+
+*To get a particular records in db*
+
 #### POST - localhost:4000/api/sample
 	
 *x-www-form-urlencoded as content type*
